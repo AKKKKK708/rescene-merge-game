@@ -4,7 +4,7 @@
 
 ## 在线游玩
 
-GitHub Pages 启用后，可通过仓库页面显示的公开链接直接打开，无需登录。
+[点击这里直接在线游玩](https://akkkkk708.github.io/rescene-merge-game/)，无需登录。
 
 ## 参考与实现说明
 
